@@ -1,0 +1,9 @@
+opencv-python
+Pillow
+shapely
+pyclipper
+scikit-image
+Polygon3
+lanms-neo
+onnxruntime
+numpy
