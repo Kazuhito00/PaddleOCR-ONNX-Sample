@@ -10,7 +10,7 @@ from ppocr_onnx.ppocr_onnx import PaddleOcrONNX
 def get_args():
     parser = argparse.ArgumentParser()
 
-    parser.add_argument("--image", type=str, default='image/sample.jpg')
+    parser.add_argument("--image", type=str, default='sample.jpg')
 
     parser.add_argument(
         "--det_model",
