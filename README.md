@@ -1,5 +1,5 @@
 # PaddleOCR-ONNX-Sample
-<img src="https://github.com/Kazuhito00/PaddleOCR-ONNX-Sample/assets/37477845/513c1689-e13a-4e80-a623-721220f39c5c" width="65%"><br>
+<img src="https://github.com/Kazuhito00/PaddleOCR-ONNX-Sample/assets/37477845/190adbc9-c65d-47b8-a7fe-d73f4f28e1b2" width="65%"><br>
 [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)のPythonでのONNX推論サンプルです。<br>
 [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)の推論スクリプトからPaddle依存処理とインポートを削除しています。<br>
 
